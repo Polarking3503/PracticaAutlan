@@ -7,7 +7,7 @@ Ingenieria en teleinformatica
 
 Tabla Materias
 
-| Materia | Promedio |
+| Materia       | Promedio      |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
